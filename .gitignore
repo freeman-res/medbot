@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.agents/
+.planning/
+*.log
+*.dump
+*.backup
+*.sqlite*
+*.db
